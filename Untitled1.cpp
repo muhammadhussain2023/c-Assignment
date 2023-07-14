@@ -1,3 +1,12 @@
+// Name        :   Muhammad Hussain 
+// S/O         :   Siraj ud din 
+// programe    :   BSCS
+// Roll no     :   12
+    
+//.......................................
+
+
+
 #include <stdio.h>
 
 int Isprime(int n) {
